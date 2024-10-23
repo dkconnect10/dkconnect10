@@ -77,5 +77,4 @@
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dkconnect10&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
-https://leetcard.jacoblin.cool/dkconnect10?ext=contest
-
+**LeetCode Profile:** [View My LeetCode](https://leetcard.jacoblin.cool/dkconnect10?ext=contest)
