@@ -73,7 +73,7 @@
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/> 
   </a> 
 </p>
-
+![](https://leetcard.jacoblin.cool/9r6qLZRwzL?ext=contest)
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dkconnect10&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
