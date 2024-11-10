@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dilip Kumar</h1>
 <h2 align="center">Backend Developer | API Specialist | Tech Enthusiast</h2>
 
-<h3 align="center">I'm a Backend Developer based in Jodhpur, Rajasthan, with a Bachelor's degree in Commerce from Jai Narayan Vyas University (2019 - 2021). I have a strong foundation in building scalable and secure RESTful APIs, focusing on enhancing user experience through data-driven systems.</h3>
+<h3 align="center">I'm a Backend Developer based in Bengaluru, Karnataka , with a Bachelor's degree in Commerce from Jai Narayan Vyas University (2019 - 2021). I have a strong foundation in building scalable and secure RESTful APIs, focusing on enhancing user experience through data-driven systems.</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/u1WhXLjwgcXpHJBMRM/giphy.gif" width="600" alt="Backend Development GIF">
