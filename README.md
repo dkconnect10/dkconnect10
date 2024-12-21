@@ -1,9 +1,4 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/u1WhXLjwgcXpHJBMRM/giphy.gif" width="600" alt="Backend Development GIF">
-</p>
-
 <div style="text-align: center;">
-  <img src="https://example.com/path/to/your-image.jpg" alt="Profile Image" style="width: 150px; border-radius: 50%;">
   <h1 style="font-size: 2.5em; color: #333;">👋 Hi, I'm Dilip Kumar</h1>
   <h2 style="font-size: 1.5em; color: #4facfe;">Backend Developer | API Specialist | Tech Enthusiast</h2>
 </div>
@@ -11,6 +6,10 @@
 <div style="margin-top: 20px; font-size: 1.2em; color: #333; padding: 10px;">
   <p style="text-align: center;">I'm a dedicated Backend Developer based in **Bengaluru, India**, with expertise in building robust RESTful APIs, scalable architectures, and seamless backend systems.</p>
 </div>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/u1WhXLjwgcXpHJBMRM/giphy.gif" width="600" alt="Backend Development GIF">
+</p>
 
 ---
 
