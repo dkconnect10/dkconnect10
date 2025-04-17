@@ -74,7 +74,7 @@ I'm a passionate Backend Developer based in **Bengaluru, India**, currently work
 - 🔗 [LinkedIn](https://www.linkedin.com/in/dilip-kumar-411a55320/)
 - 💻 [GitHub](https://github.com/dkconnect10)
 - 🧠 [LeetCode](https://leetcode.com/u/dkconnect10/)
-- 🌐 [Portfolio](#) *(Add if you have one)*
+- 🌐 [Portfolio](https://github.com/dkconnect10/dkconnect10/)
 
 ---
 
