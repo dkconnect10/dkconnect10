@@ -1,151 +1,105 @@
-👋 Hi, I’m Dilip Kumar
-Backend Software Engineer | Python & Django | API & System Design
+# 👋 Hi, I’m Dilip Kumar
 
-Backend Software Engineer with nearly 2 years of experience building secure, scalable, and high-performance backend systems using Python, Django, and Django REST Framework.
-I work on transaction-heavy APIs, async processing, database optimization, and production issue resolution across FinTech and EdTech domains.
+**Backend Software Engineer | Python · Django · Scalable APIs**
 
-📍 Jodhpur, Rajasthan, India
-📧 dilipkumarconnect@gmail.com
+Backend Engineer with ~2 years of experience building **secure, scalable, and high-performance backend systems** using **Python, Django, and Django REST Framework**.  
+I specialize in **transaction-heavy APIs, async processing, database optimization, and production issue resolution** across **FinTech and EdTech** domains.
 
-🔗 LinkedIn
+📍 Jodhpur, Rajasthan, India  
+📧 dilipkumarconnect@gmail.com  
+🔗 LinkedIn | GitHub | Resume  
 
-💻 GitHub
+---
 
-🧠 What I Do Best
+## 🧠 What I Do Best
 
-Design production-grade REST APIs
+- Design **production-grade REST APIs**
+- Handle **high-concurrency & transaction-heavy systems**
+- Build **async workflows** using Celery & Redis
+- Optimize **PostgreSQL queries & schemas**
+- Debug & fix **critical production issues**
+- Write **clean, maintainable backend architecture**
 
-Handle high-concurrency & transaction-heavy systems
+---
 
-Build async workflows using Celery & Redis
+## 🛠 Tech Stack
 
-Optimize PostgreSQL queries & schemas
+**Languages & Frameworks**
+- Python, Django, Django REST Framework
 
-Debug and fix critical production issues
+**Backend & Architecture**
+- REST APIs, Authentication & Authorization  
+- Async Processing, Background Jobs
 
-Write clean, maintainable backend architecture
+**Databases & Cache**
+- PostgreSQL, MySQL, Redis
 
-🛠️ Tech Stack
+**Cloud & DevOps**
+- AWS (EC2, S3, RDS), Docker, Linux
 
-Languages & Frameworks
+**Core CS**
+- Data Structures & Algorithms (100+ problems solved)  
+- DBMS, OOPs
 
-Python
+---
 
-Django
+## 💼 Work Experience
 
-Django REST Framework
+### Backend Developer — **Anand Rathi IT Pvt. Ltd. (FinTech)**  
+*Dec 2025 – Present*
 
-Backend & Architecture
+- Designed and maintained **secure, transaction-heavy REST APIs**
+- Ensured **data integrity & validation** across financial workflows
+- Resolved **critical production issues**, improving system reliability
+- Optimized PostgreSQL queries to **reduce API latency**
 
-REST APIs
+---
 
-Authentication & Authorization
+### Backend Developer — **Now A Wave Technologies Pvt. Ltd.**  
+*Jan 2025 – Dec 2025 | Jodhpur*
 
-Async Processing
+- Core backend contributor to a **high-concurrency B2C platform**
+- Built **modular & scalable APIs** using Django & DRF
+- Optimized **PostgreSQL schemas, indexes & queries**
 
-Background Jobs
+---
 
-Databases & Cache
+### Backend Development Intern — **Befog Pvt. Ltd. (Remote)**  
+*Jul 2024 – Dec 2024*
 
-PostgreSQL
+- Developed REST APIs with focus on **performance & clean architecture**
 
-MySQL
+---
 
-Redis
+## 🚀 Key Project
 
-Cloud & DevOps
+### **Kreedo — Large-Scale EdTech Backend System** *(Ongoing)*
 
-AWS (EC2, S3, RDS)
+- Developed **10+ production-grade backend modules**
+- Automated **bulk Excel data ingestion with validations**  
+  → reduced manual effort by **60%**
+- Implemented **async background jobs** using Celery & Redis
+- Optimized PostgreSQL schemas & queries for scalability
 
-Docker
+**Platform Scale**
+- 3,500+ schools  
+- 700,000+ children  
+- 30,000+ teachers trained  
+- 50% better learning outcomes vs market
 
-Linux
+---
 
-Core CS
+## 📜 Certifications
 
-Data Structures & Algorithms (100+ problems solved)
+- MongoDB University (2024)
+- Django — W3Schools (2024)
+- Python Core — LearnVern (2024)
 
-DBMS
+---
 
-OOPs
+## 🤝 Let’s Connect
 
-💼 Work Experience
-Backend Developer
-
-Anand Rathi IT Pvt. Ltd. (FinTech)
-Dec 2025 – Present
-
-Designed and maintained secure, transaction-heavy REST APIs
-
-Ensured data integrity & validation across financial workflows
-
-Resolved critical production issues, improving reliability
-
-Optimized PostgreSQL queries to reduce API latency
-
-Backend Developer
-
-Now A Wave Technologies Pvt. Ltd.
-Jan 2025 – Dec 2025 | Jodhpur
-
-Core backend contributor to a high-concurrency B2C platform
-
-Built modular and scalable APIs using Django & DRF
-
-Optimized PostgreSQL schemas, indexes, and queries
-
-Backend Development Intern
-
-Befog Pvt. Ltd. (Remote)
-Jul 2024 – Dec 2024
-
-Developed REST APIs with focus on clean architecture & performance
-
-🚀 Key Project
-Kreedo – Large-Scale EdTech Backend System (Ongoing)
-
-Developed 10+ production-grade backend modules
-
-Automated bulk Excel data ingestion with validations
-→ reduced manual effort by 60%
-
-Implemented async background jobs using Celery & Redis
-
-Optimized PostgreSQL schemas & queries for scalability
-
-Platform impact:
-
-3,500+ schools
-
-700,000+ children
-
-30,000+ teachers trained
-
-50% better learning outcomes vs market
-
-📜 Certifications
-
-MongoDB University (2024)
-
-Django – W3Schools (2024)
-
-Python Core – LearnVern (2024)
-
-📈 DSA & Learning
-
-Solved 100+ DSA problems
-
-Strong grip on problem-solving & algorithmic thinking
-
-Actively improving system design & backend scalability
-
-📄 Resume
-
-📎 View Resume
-
-🤝 Let’s Connect
-
-If you’re building something backend-heavy, performance-critical, or scale-ready,
+If you’re building **backend-heavy, performance-critical, or scale-ready systems**,  
 I’d love to collaborate.
 
-✨ Code. Scale. Ship. ✨
+✨ *Code. Scale. Ship.* ✨
