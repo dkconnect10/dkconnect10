@@ -39,7 +39,6 @@ class DilipKumar:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![DRF](https://img.shields.io/badge/Django_REST-ff1709?style=flat-square&logo=django&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 **Databases & Cache**
 
@@ -62,9 +61,9 @@ class DilipKumar:
 
 | Role | Company | Period |
 |------|---------|--------|
-| 🟢 **Backend Developer** | Anand Rathi IT Pvt. Ltd. *(FinTech)* | Dec 2025 – Present |
-| **Backend Developer** | Now A Wave Technologies Pvt. Ltd. | Jan 2025 – Dec 2025 |
-| **Backend Intern** | Befog Pvt. Ltd. | Jul 2024 – Dec 2024 |
+| 🟢 **Backend Software Engineer** | Anand Rathi IT Pvt. Ltd. *(FinTech)* | Dec 2025 – Present |
+| **Backend Software Engineer** | Now A Wave Technologies Pvt. Ltd. *(EdTech)* | Jan 2025 – Dec 2025 |
+| **Backend Software Engineer Intern** | Befog Pvt. Ltd. | Jul 2024 – Dec 2024 |
 
 ---
 
@@ -77,7 +76,7 @@ class DilipKumar:
 ### 🏦 Workstation — Wealth Platform
 Financial operations platform for **Anand Rathi Wealth** handling investment workflows at scale.
 
-**Key work:** AWS Lambda functions · AES Encryption · Bulk upload system · Security hardening via Nginx + CloudFront · DB query optimization
+**Key work:** HTTP security headers · AWS Lambda microservices · Production bug fixes
 
 [![Live](https://img.shields.io/badge/Live-anandrathiwealth.in-006fff?style=flat-square&logo=vercel&logoColor=white)](https://www.anandrathiwealth.in/)
 
@@ -85,9 +84,9 @@ Financial operations platform for **Anand Rathi Wealth** handling investment wor
 <td width="50%">
 
 ### 📚 Kreedology — EdTech Platform
-High-concurrency B2C **sports education platform** built for scale.
+Sports education platform used across **3500+ partner schools**.
 
-**Key work:** Modular DRF APIs · PostgreSQL schema optimization · Redis caching · Index tuning · Async processing
+**Key work:** Assessment Report Engine · Bulk Excel upload system · Production bug fixes
 
 [![Live](https://img.shields.io/badge/Live-kreedology.com-00d084?style=flat-square&logo=vercel&logoColor=white)](https://kreedology.com/)
 
@@ -103,12 +102,11 @@ High-concurrency B2C **sports education platform** built for scale.
 
 | Metric | Value |
 |--------|-------|
-| ✅ Problems Solved | **117** (Easy: 76 · Med: 40 · Hard: 1) |
+| ✅ Problems Solved | **147** (Easy: 89 · Med: 56 · Hard: 2) |
 | 🏆 Contest Rating | **1,369** |
-| 🌍 Global Rank | **#771,134** |
 | 📈 Top Percentile | **90.82%** |
-| 🔥 Max Streak | **50 days** |
-| 🏅 Badge | **50 Days Badge 2026** |
+| 🔥 Max Streak | **81 days** |
+| 🏅 Badge | **100 Days Badge 2026** |
 
 [![LeetCode Profile](https://img.shields.io/badge/View_Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/dkconnect10/)
 
