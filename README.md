@@ -102,8 +102,7 @@ Sports education platform used across **3500+ partner schools**.
 
 | Metric | Value |
 |--------|-------|
-| ✅ Problems Solved | **147** (Easy: 89 · Med: 56 · Hard: 2) |
-| 🏆 Contest Rating | **1,369** |
+| ✅ Problems Solved | **215+** (Easy: 128 · Med: 83 · Hard: 4) |
 | 📈 Top Percentile | **90.82%** |
 | 🔥 Max Streak | **81 days** |
 | 🏅 Badge | **100 Days Badge 2026** |
