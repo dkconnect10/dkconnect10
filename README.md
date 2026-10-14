@@ -19,10 +19,11 @@
 class DilipKumar:
     def __init__(self):
         self.role       = "Backend Software Engineer"
+        self.experience = "3+ years"
         self.location   = "Jodhpur, Rajasthan, India 🇮🇳"
         self.company    = "Anand Rathi IT Pvt. Ltd. (FinTech)"
         self.stack      = ["Python", "Django", "DRF", "PostgreSQL", "AWS", "Redis", "Docker"]
-        self.domain     = "FinTech · EdTech"
+        self.domain     = "FinTech · EdTech · Client Services"
         self.learning   = "System Design · Advanced DSA"
         self.contact    = "dilipkumarconnect@gmail.com"
 
@@ -63,7 +64,7 @@ class DilipKumar:
 |------|---------|--------|
 | 🟢 **Backend Software Engineer** | Anand Rathi IT Pvt. Ltd. *(FinTech)* | Dec 2025 – Present |
 | **Backend Software Engineer** | Now A Wave Technologies Pvt. Ltd. *(EdTech)* | Jan 2025 – Dec 2025 |
-| **Backend Software Engineer Intern** | Befog Pvt. Ltd. | Jul 2024 – Dec 2024 |
+| **Backend Software Engineer** | Befog Pvt. Ltd. *(Service-Based · Multiple Clients)* | Jul 2023 – Jan 2025 |
 
 ---
 
