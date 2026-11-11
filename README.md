@@ -23,7 +23,7 @@ class DilipKumar:
         self.location   = "Jodhpur, Rajasthan, India 🇮🇳"
         self.company    = "Anand Rathi Group (FinTech)"
         self.stack      = ["Python", "Django", "DRF", "PostgreSQL", "Redis", "Celery", "AWS", "Docker"]
-        self.domain     = "FinTech · EdTech · Client Services"
+        self.domain     = "FinTech · EdTech"
         self.education  = "B.Com (JNVU) · MCA (IGNOU, 2026–2028)"
         self.learning   = "System Design · Advanced DSA"
         self.contact    = "dilipkumarconnect@gmail.com"
@@ -65,8 +65,7 @@ class DilipKumar:
 | Role | Company | Period |
 |------|---------|--------|
 | 🟢 **Backend Software Engineer** | Anand Rathi Group *(FinTech)* | Dec 2025 – Present |
-| **Backend Software Engineer** | Now A Wave Technologies Pvt. Ltd. *(EdTech — Kreedology)* | Jan 2025 – Dec 2025 |
-| **Backend Software Engineer** | Befog Pvt. Ltd. *(Service-Based · Multiple Clients)* | Jul 2023 – Jan 2025 |
+| **Backend Software Engineer** | Now A Wave Technologies Pvt. Ltd. *(EdTech — Kreedology)* | Jul 2023 – Dec 2025 |
 
 ---
 
