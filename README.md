@@ -21,9 +21,10 @@ class DilipKumar:
         self.role       = "Backend Software Engineer"
         self.experience = "3+ years"
         self.location   = "Jodhpur, Rajasthan, India 🇮🇳"
-        self.company    = "Anand Rathi IT Pvt. Ltd. (FinTech)"
-        self.stack      = ["Python", "Django", "DRF", "PostgreSQL", "AWS", "Redis", "Docker"]
+        self.company    = "Anand Rathi Group (FinTech)"
+        self.stack      = ["Python", "Django", "DRF", "PostgreSQL", "Redis", "Celery", "AWS", "Docker"]
         self.domain     = "FinTech · EdTech · Client Services"
+        self.education  = "B.Com (JNVU) · MCA (IGNOU, 2026–2028)"
         self.learning   = "System Design · Advanced DSA"
         self.contact    = "dilipkumarconnect@gmail.com"
 
@@ -41,11 +42,12 @@ class DilipKumar:
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![DRF](https://img.shields.io/badge/Django_REST-ff1709?style=flat-square&logo=django&logoColor=white)
 
-**Databases & Cache**
+**Databases, Cache & Queues**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white)
 
 **Cloud & DevOps**
 
@@ -62,8 +64,8 @@ class DilipKumar:
 
 | Role | Company | Period |
 |------|---------|--------|
-| 🟢 **Backend Software Engineer** | Anand Rathi IT Pvt. Ltd. *(FinTech)* | Dec 2025 – Present |
-| **Backend Software Engineer** | Now A Wave Technologies Pvt. Ltd. *(EdTech)* | Jan 2025 – Dec 2025 |
+| 🟢 **Backend Software Engineer** | Anand Rathi Group *(FinTech)* | Dec 2025 – Present |
+| **Backend Software Engineer** | Now A Wave Technologies Pvt. Ltd. *(EdTech — Kreedology)* | Jan 2025 – Dec 2025 |
 | **Backend Software Engineer** | Befog Pvt. Ltd. *(Service-Based · Multiple Clients)* | Jul 2023 – Jan 2025 |
 
 ---
@@ -77,7 +79,10 @@ class DilipKumar:
 ### 🏦 Workstation — Wealth Platform
 Financial operations platform for **Anand Rathi Wealth** handling investment workflows at scale.
 
-**Key work:** HTTP security headers · AWS Lambda microservices · Production bug fixes
+**Key work:**
+- Production API bug fixes (business logic, null-data handling)
+- Security fix: GET → POST so sensitive data never leaks via URL query params
+- HTTP security headers · AWS Lambda microservices
 
 [![Live](https://img.shields.io/badge/Live-anandrathiwealth.in-006fff?style=flat-square&logo=vercel&logoColor=white)](https://www.anandrathiwealth.in/)
 
@@ -87,9 +92,27 @@ Financial operations platform for **Anand Rathi Wealth** handling investment wor
 ### 📚 Kreedology — EdTech Platform
 Sports education platform used across **3500+ partner schools**.
 
-**Key work:** Assessment Report Engine · Bulk Excel upload system · Production bug fixes
+**Key work:**
+- Assessment Report Engine → **~60%** less teacher reporting effort
+- Bulk Excel ingestion → **~70%** faster school onboarding
+- Production bug fixes
 
 [![Live](https://img.shields.io/badge/Live-kreedology.com-00d084?style=flat-square&logo=vercel&logoColor=white)](https://kreedology.com/)
+
+</td>
+</tr>
+<tr>
+<td colspan="2">
+
+### 💳 LoanFlow — B2B Loan Management SaaS
+Full-stack loan lifecycle: apply → approve/reject → EMI auto-generation → payments. **17+ REST APIs** across Users, Loans & Payments modules.
+
+**Key work:**
+- Razorpay integration with signature verification + offline CASH/CHEQUE payments
+- Role-based access: Customer / Loan Officer / Admin
+- EMI scheduling (reducing balance, `Decimal` precision) + Celery Beat daily overdue checks with atomic transactions
+
+`Django` · `DRF` · `React` · `PostgreSQL` · `Redis` · `Celery` · `SimpleJWT` · `Docker`
 
 </td>
 </tr>
@@ -103,14 +126,24 @@ Sports education platform used across **3500+ partner schools**.
 
 | Metric | Value |
 |--------|-------|
-| ✅ Problems Solved | **215+** (Easy: 128 · Med: 83 · Hard: 4) |
-| 📈 Top Percentile | **90.82%** |
-| 🔥 Max Streak | **81 days** |
-| 🏅 Badge | **100 Days Badge 2026** |
+| ✅ Problems Solved | **238** (Easy: 143 · Med: 91 · Hard: 4) |
+| 🔥 Max Streak | **124 days** |
+| 📅 Active Days (past year) | **230** |
+| 📝 Submissions (past year) | **855** |
+| 🏅 Latest Badge | **200 Days Badge 2026** |
 
 [![LeetCode Profile](https://img.shields.io/badge/View_Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/dkconnect10/)
 
 </div>
+
+---
+
+## 🎓 Education & Certifications
+
+- 🎓 **MCA** — IGNOU *(2026 – 2028, pursuing)*
+- 🎓 **B.Com** — Jai Narain Vyas University (JNVU), 2018 – 2021
+- 📜 Python (Basic) — HackerRank, Aug 2026
+- 📜 Python Programming — LearnVern / NSDC (Skill India Approved), Apr 2024
 
 ---
 
